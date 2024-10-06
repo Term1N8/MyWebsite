@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certification on Nathan May</title>
+    <link>https://nathanjmay.com:1313/tags/certification/</link>
+    <description>Recent content in Certification on Nathan May</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://nathanjmay.com:1313/tags/certification/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>My PenTest&#43; Experience</title>
+      <link>https://nathanjmay.com:1313/posts/resources/pentest/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://nathanjmay.com:1313/posts/resources/pentest/</guid>
+      <description>About the PenTest+ Exam: The PenTest+ is among the more intermediate certifications offered by CompTIA and focuses primarily on penetration testing techniques and methodology. The exam has both practical hands on questions as well as traditional multiple choice questions to test both the knowledge and capability of testers.
+It is broken up into 5 primary sections
+Planning and Scoping - 15% Information Gathering and Vulnerability Scanning - 22% Attacks and Exploits - 30% Penetration Testing Tools - 17% Reporting and Communication - 16% For a quick comparison to other offensive side cyber certifications, it is generally regarded as being more difficult and hands on than the Certified Ethical Hacker (CEH), and less difficult/hands on than the eLearnSecurity Junior Penetration Tester (eJPT).</description>
+    </item>
+    
+    
+  </channel>
+</rss>

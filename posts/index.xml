@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nathan May</title>
+    <link>https://nathanjmay.com:1313/posts/</link>
+    <description>Recent content in Posts on Nathan May</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://nathanjmay.com:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Home VPN Setup with PFSense</title>
+      <link>https://nathanjmay.com:1313/posts/projects/pfsensevpn/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://nathanjmay.com:1313/posts/projects/pfsensevpn/</guid>
+      <description>Introduction Setting up PFSense as a VPS within your home environment will provide several benefits. First, all your home network traffic will be protected by a well developed and capable next generation firewall. PFSense has been around since 2006 and has continued to grow in support and development making it an extremely advanced open source security solution. Although I will not go into it within this post, PFSense has a package manager that can be used to install additional tools like Snort, Suricata, pfBlocker, Squid and more.</description>
+    </item>
+    
+    <item>
+      <title>Meterpreter</title>
+      <link>https://nathanjmay.com:1313/posts/tools/meterpreter/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://nathanjmay.com:1313/posts/tools/meterpreter/</guid>
+      <description>What is Meterpreter? Meterpreter is an extremely powerful payload which provides an attacker an advanced shell to interact with their target. It can run normal system commands, launch programs, keylog, screenshare, upload files, and many more powerful functions.
+How to get a Meterpreter shell on a system? Many backdoors like Mosquito and Shamoon-2 are preconfigured with Meterpreter as a payload. It was originally created as a Metasploit Payload, so if you can find a system with an exploitable vulnerability just set the payload to a Meterpreter shell.</description>
+    </item>
+    
+    <item>
+      <title>My Favorite Resources</title>
+      <link>https://nathanjmay.com:1313/posts/resources/fav/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://nathanjmay.com:1313/posts/resources/fav/</guid>
+      <description>Favorite Resources General Learning Resources: Udemy - I use this for just about anything, certifications, new skills, hobbies, it really has everything. Never buy a course at full price, there are always sales where you can get the course for around $20 or less YouTube Channels HackerSploit for ethical hacking tools/techniques Lawrence Systems for network administration technologies Programming with Mosh for programming tutorials Linus Tech Tips for general hardware information Podcast Darknet Diaries (available on Spotify, iTunes, RSS and more) my all time favorite, cool stories about famous hacks, nation state APTs, and stories from notable hackers Unsupervised Learning more technical podcast about modern technology and cybersecurity Networking: Study-CCNA in conjunction with Cisco’s Packet Tracer can teach you everything you need to know regarding basic networking protocols and network engineering GNS3 - Network focused virtualization platform, more complex than Packet Tracer but supports other vendor platforms Linux: OverTheWire - Great place to get started learning basic Linux commands LinuxJourney - Interactive explanation of commands, utilities, processes, services, and all things linux Windows: Microsoft Learn - customize your learning track based off of experience and interests UnderTheWire - Interactive way to learn PowerShell Cybersecurity/Ethical Hacking TryHackMe - Hacking tutorials for beginners, includes instructions and lessons</description>
+    </item>
+    
+    <item>
+      <title>My PenTest&#43; Experience</title>
+      <link>https://nathanjmay.com:1313/posts/resources/pentest/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://nathanjmay.com:1313/posts/resources/pentest/</guid>
+      <description>About the PenTest+ Exam: The PenTest+ is among the more intermediate certifications offered by CompTIA and focuses primarily on penetration testing techniques and methodology. The exam has both practical hands on questions as well as traditional multiple choice questions to test both the knowledge and capability of testers.
+It is broken up into 5 primary sections
+Planning and Scoping - 15% Information Gathering and Vulnerability Scanning - 22% Attacks and Exploits - 30% Penetration Testing Tools - 17% Reporting and Communication - 16% For a quick comparison to other offensive side cyber certifications, it is generally regarded as being more difficult and hands on than the Certified Ethical Hacker (CEH), and less difficult/hands on than the eLearnSecurity Junior Penetration Tester (eJPT).</description>
+    </item>
+    
+    <item>
+      <title>OpenCanary</title>
+      <link>https://nathanjmay.com:1313/posts/tools/opencanary/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://nathanjmay.com:1313/posts/tools/opencanary/</guid>
+      <description>What is OpenCanary? OpenCanary is the free open source version of Canary, a popular and advanced honeypot. OpenCanary takes a different approach to intrusion detection. Instead of monitoring network traffic for known malicious actions and signatures, OpenCanary is system meant to be attractive to attackers that will alert an administrator when an attack is detected.
+Problems With Typical IDS If you have ever run an IDS like Snort, Suricata, Palo Alto, or similar, you know they flag a lot of traffic and make a lot of noise.</description>
+    </item>
+    
+    
+  </channel>
+</rss>
