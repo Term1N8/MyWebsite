@@ -6,7 +6,17 @@
     <description>Recent content on Nathan May</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://nathanjmay.com:443/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Wed, 10 Dec 2025 08:06:25 +0600</lastBuildDate><atom:link href="https://nathanjmay.com:443/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Malware Development #0</title>
+      <link>https://nathanjmay.com:443/posts/projects/maldev-0/</link>
+      <pubDate>Wed, 10 Dec 2025 08:06:25 +0600</pubDate>
+      
+      <guid>https://nathanjmay.com:443/posts/projects/maldev-0/</guid>
+      <description>Brief Project Overview Malware development has been something that has interested me; however, most of my success in customer engagements has been due to using publicly available tooling, not my own work. This blog post will hopefully document my process into creating a custom HavocC2 loader bypassing several EDRs.
+Many topics on malware development exist, but I find that writing/teaching about a topic forces me to understand it more deeply.</description>
+    </item>
+    
+    <item>
       <title>Bypassing Applocker&#43;AMSI&#43;Defender in 2024</title>
       <link>https://nathanjmay.com:443/posts/projects/windows-applocker-amsi-shell/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
